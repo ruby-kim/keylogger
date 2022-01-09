@@ -15,6 +15,7 @@ python server.py
 ```
 
 ### Result example
+* please check results in `./log.txt`
 ```text
 2022-01-09 18:07:58.553224 - dKey.backspaceKey.ctrl_lKey.shiftKey.shiftKey.shiftKey.ctrl_lKey.shift\tKey.f12Key.f12Key.escKey.escKey.esc<21>dlrkddls
 2022-01-09 18:08:29.952753 - expl
