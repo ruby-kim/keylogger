@@ -1,6 +1,10 @@
 # keylogger
 A program where we can check the keyboard input value
 
+### Environment
+* PyCharm: [Link](https://www.jetbrains.com/ko-kr/pycharm/download) [How to install](https://blog.naver.com/gomdorij/222494702573)
+* 
+
 ### How to run
 ```shell
 python log.py
