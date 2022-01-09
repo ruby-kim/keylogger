@@ -3,7 +3,10 @@ A program where we can check the keyboard input value
 
 ### Environment
 * PyCharm: [Link](https://www.jetbrains.com/ko-kr/pycharm/download) [How to install](https://blog.naver.com/gomdorij/222494702573)
-* 
+* Base setting:
+  ```shell
+  pip3 install -r requirements.txt
+  ```
 
 ### How to run
 ```shell
