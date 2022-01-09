@@ -1,5 +1,5 @@
 # keylogger
-A program where we can check the keyboard input value
+A program that we can check the keyboard input value
 
 ### Environment
 * Python 3.6
